@@ -10,7 +10,7 @@
 
 1. Скачайте или клонируйте репозиторий:
 
-git clone https://github.com/ultranumb-coder/Py_Shortcut_on_Linux
+git clone https://github.com/ultrabyte-coder/Py_Shortcut_on_Linux
 cd Py_Shortcut_on_Linux
 
 2. Убедитесь, что у вас установлен Python 3.11:
@@ -72,7 +72,7 @@ To use the script, you need to have Python version 3.11 installed.
 
 1. Download or clone the repository:
 
-git clone https://github.com/ultranumb-coder/Py_Shortcut_on_Linux
+git clone https://github.com/ultrabyte-coder/Py_Shortcut_on_Linux
 cd Py_Shortcut_on_Linux
 
 2. Ensure that you have Python 3.11 installed:
